@@ -14,6 +14,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JavaAndSpringboot {
 
     public static void main(String[] args) {
+
+        //main方法的参数在命令行启动时指定参数使用： java -jar Test.jar Hello Java 启动后args中就有 Hello Java 两个元素
         SpringApplication.run( JavaAndSpringboot.class , args ) ;
     }
 
