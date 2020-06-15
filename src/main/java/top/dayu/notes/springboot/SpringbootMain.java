@@ -1,4 +1,4 @@
-package top.dayu.study.notes;
+package top.dayu.notes.springboot;
 
 /**
  * @Classname SpringbootStudy
@@ -6,7 +6,7 @@ package top.dayu.study.notes;
  * @Date 2020/6/10 11:11
  * @Author by ldy
  */
-public class SpringbootStudy {
+public class SpringbootMain {
 
 
 }

@@ -1,4 +1,4 @@
-package top.dayu.study;
+package top.dayu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

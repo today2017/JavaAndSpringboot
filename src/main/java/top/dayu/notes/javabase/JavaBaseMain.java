@@ -1,4 +1,4 @@
-package top.dayu.study.notes;
+package top.dayu.notes.javabase;
 
 /**
  * @Description 用来记录java基础知识的学习笔记
@@ -20,8 +20,6 @@ package top.dayu.study.notes;
  */
 
 
-
-
-public class JavaBaseStudy {
+public class JavaBaseMain {
 
 }
